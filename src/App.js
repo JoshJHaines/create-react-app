@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 import  './App.css'
 import cat from "./image/cat.jpeg";
-import frog from "./image/frog.jpg";
-import lady from "./image/lady.jpg";
-import pirate from "./image/pirate.png"
+import frog from "./image/frog.jpeg";
+import lady from "./image/lady.jpeg";
+import pirate from "./image/pirate.jpeg"
 
 export class App extends Component {
   state = {
